@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "IoT2",
+    "owner": "IITU",
+    "description": "We want to generate a thread model",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "IITU Staff",
+    "threatTop": 0
+  }
+}
